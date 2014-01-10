@@ -1,4 +1,4 @@
 WifiGo
 ======
 
-Transfer video by wifi direct.Hoping to have video streaming function in the future.
+Transfer video by wifi direct(UDP), and play the video by video streaming.
